@@ -1,0 +1,16 @@
+/*
+   Theme Name: Zerif Lite Child
+   Theme URI: http://themeisle.com/themes/zerif-lite/
+   Author: Saber Xie
+   Author URI: https://www.saberxie.com
+   Description: This is a custom child theme I have created.
+   Template: zerif-lite
+   Version: 0.1 
+*/
+
+.product-name {
+color: #404040;
+font-family: serif;
+font-size: 20px;
+font-weight: bold;
+}
